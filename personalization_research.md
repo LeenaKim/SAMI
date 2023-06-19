@@ -30,4 +30,10 @@ SAMI project - personality match related
 - 연구 활용 방안 : With the ability to in- fer a user’s personality, social media websites, e-commerce retailers, and even ad servers can be tailored to reflect the user’s personality traits and present information such that users will be most receptive to it. 
 
 4. On friendship development and the big five personality traits
-5. 
+
+- Our review suggests that agreeableness has the most consistent effects on both roman- tic relationships and friendships, followed by neuroticism. Extraver- sion, conscientiousness, and openness to experience have all been shown to influence relationship development, but their effects are inconsistent. 
+- actor : who is more likely to initiate and end friendships, partner : who is more likely to be the target of friendship initiation and termination
+- 참고문헌중 읽어볼만한 것 : the role of personality traits for friendship development (e.g., Wilson, Harris, & Vazire, 2015)
+- paper focuses on two stages of friendship devel- opment: formation and maintenance.
+
+4. 
