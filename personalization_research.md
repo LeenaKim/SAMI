@@ -31,9 +31,22 @@ SAMI project - personality match related
 
 4. On friendship development and the big five personality traits
 
-- Our review suggests that agreeableness has the most consistent effects on both roman- tic relationships and friendships, followed by neuroticism. Extraver- sion, conscientiousness, and openness to experience have all been shown to influence relationship development, but their effects are inconsistent. 
+- Our review suggests that **agreeableness** has the most consistent effects on both roman- tic relationships and friendships, followed by **neuroticism**. Extraver- sion, conscientiousness, and openness to experience have all been shown to influence relationship development, but their effects are inconsistent. 
 - actor : who is more likely to initiate and end friendships, partner : who is more likely to be the target of friendship initiation and termination
 - 참고문헌중 읽어볼만한 것 : the role of personality traits for friendship development (e.g., Wilson, Harris, & Vazire, 2015)
 - paper focuses on two stages of friendship devel- opment: formation and maintenance.
+- Extraversion: willing to make more friends
+  - Actor effects
+    - Extraverts' positive experiences with others, coupled with the sociability that characterizes extraversion, could drive them to approach others more and to be more willing to engage with strangers than introverts.
+  - Partner effects
+    - In short, extraverts seem to be liked more at first, but they are not necessarily more prone to elicit liking after the first impression.
+  - dyadic effects
+    - Similarity in extraversion can impact friendship formation. People, particularly introverts, tend to like others who match their level of extraversion 
+  - summary
+    - it is easy to imagine how friendships could look very different depending on the combination of extraversion levels (i.e., high‐high vs. high‐low vs. low‐low).
+    - Nelson, Thorne, and Shapiro (2011) began studying the dynamics of matched versus mismatched friendships, but there is still more work to be done on this topic.
+- Agreeableness
+- matching시 trait들중 우선순위를 정하는건 어떨까? agreeableness 1위
+- 매칭시 friendship maintanance 보단 formation에 중점을 두는게 어떨까?
 
 4. 
