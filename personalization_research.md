@@ -46,6 +46,24 @@ SAMI project - personality match related
     - it is easy to imagine how friendships could look very different depending on the combination of extraversion levels (i.e., high‐high vs. high‐low vs. low‐low).
     - Nelson, Thorne, and Shapiro (2011) began studying the dynamics of matched versus mismatched friendships, but there is still more work to be done on this topic.
 - Agreeableness
+  - Actor effects
+    - Surprisingly, however, agreeableness seems to be less important than extraversion in selecting new friends.
+    - will use their interpersonal skills to make the interactions they happen to be in go smoothly, but they may not actively seek out new friendships.
+  - Partner effects
+    - Agreeableness does not immediately attract others, but later becomes a valuable trait in potential friends.
+    - However, after interacting with others, agreeable people are better liked than disagreeable people (Cuperman & Ickes, 2009; Wortman & Wood, 2011)
+    - In short, agreeable people are popular. 
+  - Dyadic effects
+    - When at least one of the two interaction partners is high on agreeableness, both are more likely to feel comfortable in the interaction, and independent coders observe more smiles and laughter in those interactions
+    - However, if two highly disagreeable people are put together, the interaction does not go as well
+  - summary
+    - However, compatibility on agreeableness is not necessary for a successful interaction—one agreeable person in an interaction is enough for things to go smoothly.
+- Neuroticism/emotional stability
+  - Actor effects
+    - Emotional stability (i.e., low neuroticism) is not associated with liking strangers more at zero acquaintance 
+  - Partner effects
+    - Neuroticism also has little to do with how much people are liked by new acquaintances
+    - People high on neuroticism do not expect to be liked at zero acquaintance, (Back et al.). Similarly, they feel less comfortable and more self‐conscious interacting with strangers than do people low on neuroticism. 
 - matching시 trait들중 우선순위를 정하는건 어떨까? agreeableness 1위
 - 매칭시 friendship maintanance 보단 formation에 중점을 두는게 어떨까?
 
