@@ -41,7 +41,7 @@ SAMI project - personality match related
 
 - Our review suggests that **agreeableness** has the most consistent effects on both roman- tic relationships and friendships, followed by **neuroticism**. Extraver- sion, conscientiousness, and openness to experience have all been shown to influence relationship development, but their effects are inconsistent. 
 - actor : who is more likely to initiate and end friendships, partner : who is more likely to be the target of friendship initiation and termination
-- 참고문헌중 읽어볼만한 것 : the role of personality traits for friendship development (e.g., Wilson, Harris, & Vazire, 2015)
+- worth to read from reference : the role of personality traits for friendship development (e.g., Wilson, Harris, & Vazire, 2015)
 - paper focuses on two stages of friendship devel- opment: formation and maintenance.
 - Extraversion: willing to make more friends
   - Actor effects
@@ -80,6 +80,7 @@ SAMI project - personality match related
   - Although conscientiousness has clear interpersonal implications (e.g., following through on commitments to others), it is less directly related to social behavior than extraversion and agreeableness
   - Based on these findings, the effects of conscientiousness should be more pronounced in the later stages of friendship development than in friendship formation. 
 - Openness
+  - That said, individuals tend to be friends with people who are similarly open (Lönnqvist & Itkonen, 2016; Selfhout et al., 2010). Given that openness is associated with values and interests (Dollinger, Leong, & Ulicni, 1996), similarity in openness could be indicative of other commonalities.
   - Compared to the other Big Five traits, openness is likely to be less related to actors' and partners' friendship satisfaction, but it may be related to other outcomes, such as one's position in social networks, or the variety of one's friends. 
 
 
@@ -129,4 +130,6 @@ SAMI project - personality match related
 # Thoughts
 
 - What if we make priorities among traits when matching? Extraversion-agreeableness-neuroticism order. The rest two don't have big relationship with friendship.
-- 매칭시 friendship maintanance 보단 formation에 중점을 두는게 어떨까? initial face 에 friendship 형성에 미치는 personality trait 중점.
+- put importance on friendship formation rather than friendship maintanance or other phases of friendship.
+- make a checklist of big 5 traits that students can choose binary traints. ex) introvert vs extrovert / agreeable / disagreeable etc. Seems more reasonable to classify students rather than receive the text explanation.
+- Does personality really matter when they form friendship with online students? Aren't they more interested in someone who has potential to benefit them in career-wise? Or people with common situation as theirs?
