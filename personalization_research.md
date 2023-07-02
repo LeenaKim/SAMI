@@ -2,9 +2,11 @@ SAMI project - personality match related
 
 [toc]
 
+# RQ1. 
 
+<span style="color:red">Personality affects friendship formation?</span>
 
-# Papers
+## Papers
 
 1. **Bottom-Up and Top-Down: Predicting Personality with Psycholinguistic and Language Model Features**
 
@@ -113,9 +115,7 @@ SAMI project - personality match related
     - they discovered that liking a fictitious stranger is unrelated to similarity on several personality dimensions. rather, the important criterion isn the similarity between the stranger's personality and the subject's profile of an ideal personality.(Wetzel and Insko)
     - Ideal personality characteristics may be important when selecting friends because individuals strive to learn from, or emulate, a friend rather simply have their own personalities validated.
 
-
-
-# General
+## General
 
 - There are a few different scoring systems
 
@@ -125,11 +125,65 @@ SAMI project - personality match related
 
       *Instruction 6*: Write in the column labeled “Y. Your Big Five Scale” if your score for each of the factors was H (high), A (average), or L (low).
 
-
-
-# Thoughts
+## Thoughts
 
 - What if we make priorities among traits when matching? Extraversion-agreeableness-neuroticism order. The rest two don't have big relationship with friendship.
 - put importance on friendship formation rather than friendship maintanance or other phases of friendship.
 - make a checklist of big 5 traits that students can choose binary traints. ex) introvert vs extrovert / agreeable / disagreeable etc. Seems more reasonable to classify students rather than receive the text explanation.
 - Does personality really matter when they form friendship with online students? Aren't they more interested in someone who has potential to benefit them in career-wise? Or people with common situation as theirs?
+
+
+
+# RQ2. 
+
+<span style="color:red">If personality is not the basis of match making, what is? </span>
+
+## papers
+
+1. RACE AND ACADEMIC STATUS AS DETERMINANTS OF FRIENDSHIP FORMATION: A FIELD STUDY
+
+-  It was predicted that both **race similarity and academic status** congruence would contribute to affiliation, but that academic status would be a more salient determinant in the undergraduate condition, whereas race would be more salient in the graduate group.
+
+2. Evolving friendship networks: An individual-oriented approach implementing similarity
+
+- we introduce another important determinant of friendship formation: **preferences for similar friends**. The amount of heterogeneity of the distribution of individual characteristics on which this similarity is based thus becomes important. In contrast to most existing dynamic social network models, this aspect of heterogeneity, as well as dependence of dyads, can easily be dealt with. 
+
+3. On processes of peer influences in adolescent drug use: A developmental perspective
+
+- **Sociodemographic characteristics** are the strongest determinants of friendship formation, with participation in illicit drugs following next in importance.
+
+4. Generation, ethnic and religious diversity in friendship choice: exploring interethnic close ties in Britain
+
+- The most common friendship pattern is **having co-ethnic close friends**. This ethnic boundary in interethnic ties, however, weakens across generations whereby those born in or migrated to Britain at young ages have a higher chance of having close friends from other ethnic groups. We find that interethnic friendships are formed in a ‘pan-ethnic’ pattern by which those with similar ethnic/racial and religious background such as Muslim Indians and Pakistanis, or mixed white and black Caribbean and black Caribbean, are more likely to nominate one another as close friends.
+
+5. The quality of online, offline, and mixed-mode friendships among users of a social networking site
+
+- The first aim of this study was to compare the quality of online, offline, and mixed-mode friendships (i.e., friendships that originate online and extend to offline settings) among users of a social networking site. The second aim was to investigate the relative contribution of proximity, perceived similarity, and social attraction to the quality of each of the three types of friendships. The differences in quality between online and offline friendships remained significant over time, but those between mixed-mode and offline friendships disappeared. Proximity did not affect the quality of any of the three types of friendships. **Perceived similarity** was the most important predictor of online friendships, whereas social attraction was the most important predictor of mixed-mode and offline friendships. Our results are discussed in the light of both interpersonal and computer-mediated communication theories.
+
+6. Need Similarity and Complementarity as Determinants of Friendship Choice
+
+- numerous studies have shown that friendship choice is correlated with perceived need similarity and/or complementarity.
+
+
+
+# RQ3. 
+
+<span style="color:red">If personality is basis of personalization? </span>
+
+<span style="color:red">Does personality have any effect on how you interact with someone? </span>
+
+<span style="color:red">Does perceived personality have an effect on how we communicate with a person?</span>
+
+## papers
+
+1. Personalization and Personality: Some Effects of Customizing Message Style Based on Consumer Personality
+
+- The results indicate that computers are more effective as agents of influence when the computer's message style matches the participant's personality type. 
+
+2. Opportunities and challenges of utilizing personality traits for personalization in HCI
+
+![LeenaKim-8289771](personalization_research.assets/LeenaKim-8289771.png)
+
+- It was suggested that personality traits influence a preference for (intelligent) interactive systems since users prefer to interact with congruent personalities. This preference could be an opportunity to develop completely empathic intelligent systems, as imagined by popular culture for a long time. 
+-  Moreover, personality traits could be used to overcome the cold start problem of personalization since they can inform systems before the first use.
+
