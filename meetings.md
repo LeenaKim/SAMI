@@ -254,3 +254,66 @@ Is there market? Can we clear market? => at some point he wants me to get to thi
 - if personality is basis of personalization?
   - So before you were looking at personality as a basis for matchmaking, he wants you to instead broaden that to see what is important for matchmaking and then your focus on personality would shift from how does it affect friendship formation to "Does it have any effect on how you interact with someone?" So we aren't totally off the personality hook but I think this gives you more room to explore and go where your research takes you.
   - Ashok wants SAMI to respond in a way that takes into consideration SAMI's understanding of the person's personality (if the literature confirms his hypothesis that perceived personality does have an effect on how we communicate with a person). For example SAMI perceives a student as highly extraverted and it comes back and is like "Hi! It's great to meet you!" and if SAMI thinks you are an introvert it might just say "Hey..." haha or something like that.
+
+
+
+# 23.07.5
+
+chris will change prompt to ask chatGPT 
+
+consider shared identity based on ~~~ to comp with introduction 
+
+
+
+We're not using personality for personalization, not for the match
+
+chatGPT makes the match but issue is if chatGPT is scalable to do 500 introduction? 
+
+
+
+- Chris & Sandeep
+
+not sure we're considering personality in match
+
+we can't use whole intro post
+
+pass json to chatGPT
+
+chatGPT extracts json -> personality substraction -> personalized SAMI's answer
+
+match making은 chatGPT가 하지 않음. 
+
+simple project. work or not work. 
+
+Personalization 있는 버전과 없는 버전 compare 해보기. 어떤 response가 more engaging 인지 파악. let's deploy this version in fall semester.
+
+
+
+- RHEA's idea : chatGPT makes good post -> 'click' 을 클릭했을 때 추천된 상대에게 건네는 인삿말을 자동으로 생성하여 reply 하도록
+
+
+
+# 23.07.6 Sandeep
+
+- Byte size project 
+
+- Chris - with personality
+
+- SAMI has already structed entity
+
+- you'll pass those entity in some form to student and ask chatGPT from student what does SAMI know about student and let them know how can connect. chatGPT 가 student 에 대해서 배우고 그에 맞는 response를 generate 하도록. 
+
+- send any context and ask chatGPT a question. -> to learn openAI call. 
+
+- take 1 intro post(hard-code) -> send that to chatGPT, question summarize entity or give some questions to chatGPT, play with prompt
+
+- Once done that, we can do this first and then play with the feedback modification. 
+
+- exaple task: summarize this post and introduce this person in autiance. 
+
+- ask public questions in slack, not via DM
+
+- change the SAMI's feedback: goal for this semester - for the reflection report 
+
+- make chatGPT's feedback more spontaneous and natural 
+
