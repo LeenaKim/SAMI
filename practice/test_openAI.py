@@ -16,14 +16,14 @@ class TestOpenAI():
 
         dummy_entity_json = '''
         {
-            "post_id": 3661734,
+            "post_id": 3661769,
             "thread_id": 1622144,
             "platform": "ED",
             "process": "Introduction",
             "user": {
-                "official_name": "Patrick Westervelt",
-                "name": "Patrick Westervelt",
-                "id": 121161,
+                "official_name": "Sandeep Kakar",
+                "name": "Sandeep Kakar",
+                "id": 215883,
                 "email": "unknown"
             },
             "entities": [
@@ -84,7 +84,59 @@ class TestOpenAI():
                         "City"
                     ],
                     "properties": {
-                        "name": "New Jersey"
+                        "name": "Dehradun"
+                    },
+                    "relationship": {
+                        "type": "MENTIONED_LOCATION",
+                        "properties": {}
+                    }
+                },
+                {
+                    "labels": [
+                        "GPE",
+                        "Country"
+                    ],
+                    "properties": {
+                        "name": "India"
+                    },
+                    "relationship": {
+                        "type": "MENTIONED_LOCATION",
+                        "properties": {}
+                    }
+                },
+                {
+                    "labels": [
+                        "GPE",
+                        "City"
+                    ],
+                    "properties": {
+                        "name": "Bengaluru"
+                    },
+                    "relationship": {
+                        "type": "MENTIONED_LOCATION",
+                        "properties": {}
+                    }
+                },
+                {
+                    "labels": [
+                        "GPE",
+                        "City"
+                    ],
+                    "properties": {
+                        "name": "London"
+                    },
+                    "relationship": {
+                        "type": "MENTIONED_LOCATION",
+                        "properties": {}
+                    }
+                },
+                {
+                    "labels": [
+                        "GPE",
+                        "Country"
+                    ],
+                    "properties": {
+                        "name": "United Kingdom"
                     },
                     "relationship": {
                         "type": "MENTIONED_LOCATION",
@@ -96,7 +148,7 @@ class TestOpenAI():
                         "Hobby"
                     ],
                     "properties": {
-                        "name": "cooking"
+                        "name": "baking"
                     },
                     "relationship": {
                         "type": "INTERESTED_IN",
@@ -108,7 +160,7 @@ class TestOpenAI():
                         "Hobby"
                     ],
                     "properties": {
-                        "name": "hiking"
+                        "name": "listening to music"
                     },
                     "relationship": {
                         "type": "INTERESTED_IN",
@@ -120,7 +172,7 @@ class TestOpenAI():
                         "Hobby"
                     ],
                     "properties": {
-                        "name": "board/tabletop games"
+                        "name": "binge-watching"
                     },
                     "relationship": {
                         "type": "INTERESTED_IN",
@@ -132,7 +184,19 @@ class TestOpenAI():
                         "Hobby"
                     ],
                     "properties": {
-                        "name": "video gaming"
+                        "name": "dancing"
+                    },
+                    "relationship": {
+                        "type": "INTERESTED_IN",
+                        "properties": {}
+                    }
+                },
+                {
+                    "labels": [
+                        "Hobby"
+                    ],
+                    "properties": {
+                        "name": "reading"
                     },
                     "relationship": {
                         "type": "INTERESTED_IN",
@@ -153,37 +217,13 @@ class TestOpenAI():
                 },
                 {
                     "labels": [
-                        "Course"
+                        "Specialization"
                     ],
                     "properties": {
-                        "name": "CS 6750: Human-Computer Interaction"
+                        "name": "Human-Computer Interaction"
                     },
                     "relationship": {
-                        "type": "MENTIONED_COURSE",
-                        "properties": {}
-                    }
-                },
-                {
-                    "labels": [
-                        "Course"
-                    ],
-                    "properties": {
-                        "name": "CS 6601: Artificial Intelligence"
-                    },
-                    "relationship": {
-                        "type": "MENTIONED_COURSE",
-                        "properties": {}
-                    }
-                },
-                {
-                    "labels": [
-                        "Course"
-                    ],
-                    "properties": {
-                        "name": "CS 6460: Educational Technology"
-                    },
-                    "relationship": {
-                        "type": "MENTIONED_COURSE",
+                        "type": "SPECIALIZING_IN",
                         "properties": {}
                     }
                 }

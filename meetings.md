@@ -296,24 +296,41 @@ Personalization 있는 버전과 없는 버전 compare 해보기. 어떤 respons
 # 23.07.6 Sandeep
 
 - Byte size project 
-
 - Chris - with personality
-
 - SAMI has already structed entity
-
 - you'll pass those entity in some form to student and ask chatGPT from student what does SAMI know about student and let them know how can connect. chatGPT 가 student 에 대해서 배우고 그에 맞는 response를 generate 하도록. 
-
 - send any context and ask chatGPT a question. -> to learn openAI call. 
-
 - take 1 intro post(hard-code) -> send that to chatGPT, question summarize entity or give some questions to chatGPT, play with prompt
-
 - Once done that, we can do this first and then play with the feedback modification. 
-
-- exaple task: summarize this post and introduce this person in autiance. 
-
-- ask public questions in slack, not via DM
-
+- exaple task: summarize this post and introduce this person in audiance. 
+- ask public questions in slack, not via DM on openAI API
 - change the SAMI's feedback: goal for this semester - for the reflection report 
-
 - make chatGPT's feedback more spontaneous and natural 
 
+
+
+# 23.07.17 Sandeep
+
+About my experiment on salutation
+
+- Hallucinate 를 조심. all information 이 반영되어있는지. they all should be in the post - cooking, video gaming. if it's not correct information, it's a problem
+- The goal of this practis was:
+
+1. familiar API
+2. do sth to change the feedback response
+
+- you can deploy this merge -> branch 
+
+- look at the feedback post from SAMI
+
+- Test, add correction thing 
+
+- add second paragraph - correction : same for everybody : followed by that, also write the following, prompt. what needs to be returned. Hard-coding 도 가능. 
+
+- each one will write reflection report - due on 8/1
+
+- ask chris to make sure all codes work well.
+
+- Rhea is hardcoding part of feedback
+
+- get help from chris on prompting 
